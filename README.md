@@ -14,8 +14,8 @@ This project is a GUI-based application for classifying the effectiveness of dru
    ```bash
    python main.py
 
-   Load a Dataset and wait to give you a succesfull message
-   Now you can use the script :)
+Load a Dataset and wait to give you a succesfull message
+Now you can use the script :)
 
 
 
